@@ -796,7 +796,7 @@ const WeatherPrefsWidget = new GObject.Class({
 });
 
 function init() {
-    Convenience.initTranslations('gnome-shell-extension-openweather');
+    Convenience.initTranslations('gnome-shell-extension-arso');
 }
 
 function buildPrefsWidget() {
